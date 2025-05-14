@@ -1,1 +1,26 @@
+(1) Introduction to Cyber Security Module
 
+(2) Offensive Security Intro Room
+
+Task 1 :  What is Offensive Security?
+
+To beat a hacker, you have to think like one.
+
+This is what Offensive Security means breaking computer systems, exploiting software bugs, and finding loopholes in applications to gain unauthorized access.
+—just like a hacker would—so we can fix them and protect our systems.
+
+Task 2 :  Hacking your first machine 
+
+1.Use Gobuster To Find Hidden Website Pages
+2.gobuster -u http://fakebank.thm -w wordlist.txt dir
+3.gobuster -u http://10.10.25.87 -w wordslist.txt dir (in my case its way works)
+4.Transfer $2000 from account 2276 to your account 8881.
+
+Task 3 Cybersecurity Careers:
+
+
+1.Penetration Tester: Tests technology for security vulnerabilities.
+
+2.Red Teamer: Simulates attacks to assess an organization's security.
+
+3.Security Engineer: Designs and manages security systems to prevent cyberattacks.
